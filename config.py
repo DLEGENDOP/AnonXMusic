@@ -97,7 +97,7 @@ STREAM_IMG_URL = "https://graph.org/file/f4b059b71cfc43a405757.jpg"
 
 SOUNCLOUD_IMG_URL = "https://graph.org/file/31584664bd8db94609fc7.jpg"
 
-YOUTUBE_IMG_URL = "https://graph.org/file/a0e8f053ef2e17e044aee.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/f4b059b71cfc43a405757.jpg"
 
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
 
