@@ -14,7 +14,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝐎𝐏 𓆩〭〬҉⃝ (𝗗e̶v̶i̶l̶𝗠u͜͡s͜͡i͜͡c͜͡𝗞𝗶ñ𝗴🔥💕")
 
 OWNER_ID = list(map(int, getenv("OWNER_ID", "1356469075").split()))
 
@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/AnonymousX1025/AnonX
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/FallenAssociation")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/DevilsHeavenMF")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Classics0012")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Classics002")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
